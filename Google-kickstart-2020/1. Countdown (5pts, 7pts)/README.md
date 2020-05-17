@@ -29,23 +29,23 @@ For the remaining cases, 2 ≤ N ≤ 1000.
 ### Sample
 
 ### Input 
-3
-12 3
-1 2 3 7 9 3 2 1 8 3 2 1
-4 2
-101 100 99 98
-9 6
+3\
+12 3\
+1 2 3 7 9 3 2 1 8 3 2 1\
+4 2\
+101 100 99 98\
+9 6\
 100 7 6 5 4 3 2 1 100
 
 ### Output  
-Case #1: 2
-Case #2: 0
+Case #1: 2\
+Case #2: 0\
 Case #3: 1
 
   
 In sample case #1, there are two 3-countdowns as highlighted below.
-1 2 3 7 9 3 2 1 8 3 2 1
-1 2 3 7 9 3 2 1 8 3 2 1
+1 2 3 7 9 <b>3 2 1</b> 8 3 2 1
+1 2 3 7 9 3 2 1 8 <b>3 2 1</b>
 
 In sample case #2, there are no 2-countdowns.
 

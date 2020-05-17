@@ -26,37 +26,37 @@ For the remaining cases, 1 ≤ N ≤ 1000.
 ### Sample
 
 ### Input 
-3
-3
-2 2 6
-5
-30 30 9 1 30
-4
+3\
+3\
+2 2 6\
+5\
+30 30 9 1 30\
+4\
 4 0 0 16
 
 ### Output
   
-Case #1: 1
-Case #2: 3
+Case #1: 1\
+Case #2: 3\
 Case #3: 9
 
   
 In sample case #1, there is one perfect subarray: [2 2] whose sum is 22.
 
 In sample case #2, there are three perfect subarrays:
-[9], whose total sum is 32.
-[1], whose total sum is 12.
+[9], whose total sum is 32.\
+[1], whose total sum is 12.\
 [30 30 9 1 30], whose total sum is 102.
 
 In sample case #3, there are nine perfect subarrays:
-[4], whose total sum is 22.
-[4 0], whose total sum is 22.
-[4 0 0], whose total sum is 22.
-[0], whose total sum is 02.
-[0 0], whose total sum is 02.
-[0 0 16], whose total sum is 42.
-[0], whose total sum is 02.
-[0 16], whose total sum is 42.
+[4], whose total sum is 22.\
+[4 0], whose total sum is 22.\
+[4 0 0], whose total sum is 22.\
+[0], whose total sum is 02.\
+[0 0], whose total sum is 02.\
+[0 0 16], whose total sum is 42.\
+[0], whose total sum is 02.\
+[0 16], whose total sum is 42.\
 [16], whose total sum is 42.
 
 Note: We do not recommend using interpreted/slower languages for the test set 2 of this problem.

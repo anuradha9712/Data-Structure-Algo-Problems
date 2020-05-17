@@ -29,28 +29,33 @@ Test set 2 (Visible Verdict)
 
 ### Sample:
 
-Input                        Output
+### Input:          
  
-4
-3
-360 480
-420 540
-600 660
-3                        Case #1: CJC
-0 1440                   Case #2: IMPOSSIBLE
-1 3                      Case #3: JCCJJ
-2 4                      Case #4: CC
-5
-99 150
-1 100
-100 301
-2 5
-150 250
-2
-0 720
+4\
+3\
+360 480\
+420 540\
+600 660\
+3\
+0 1440\
+1 3\
+2 4\                    
+5\
+99 150\
+1 100\
+100 301\
+2 5\
+150 250\
+2\
+0 720\
 720 1440
 
-  
+### Output:
+Case #1: CJC\
+Case #2: IMPOSSIBLE\
+Case #3: JCCJJ\
+Case #4: CC
+
 
   
 Sample Case #1 is the one described in the problem statement. As mentioned above, there are other valid solutions, like JCJ and JCC.

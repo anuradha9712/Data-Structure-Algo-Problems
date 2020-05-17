@@ -43,22 +43,22 @@ There are no special constraints.
 
 ### Input:
  
-2
-5 4
-1 3 9 8 2
-Q 2 4
-Q 5 5
-U 2 10
-Q 1 2
-3 3
-4 5 5
-U 1 2
-U 1 7
+2\
+5 4\
+1 3 9 8 2\
+Q 2 4\
+Q 5 5\
+U 2 10\
+Q 1 2\
+3 3\
+4 5 5\
+U 1 2\
+U 1 7\
 Q 1 2
 
 ### Output:
   
-Case #1: -8
+Case #1: -8\
 Case #2: -3
 
   
