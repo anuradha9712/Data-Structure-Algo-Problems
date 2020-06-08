@@ -14,6 +14,8 @@ A collection of solution for the June Leetcode Challenge 2020.
 | [5. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | Prefix-SumArray |
 | [6. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | Sorting |
 | [7. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | DP |
+| [8. Power of Two](https://leetcode.com/problems/power-of-two/) | log function |
+
 
 
 
