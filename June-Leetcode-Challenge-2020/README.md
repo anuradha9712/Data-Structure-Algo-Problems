@@ -16,6 +16,9 @@ A collection of solution for the June Leetcode Challenge 2020.
 | [7. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | DP |
 | [8. Power of Two](https://leetcode.com/problems/power-of-two/) | log function |
 | [9. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | DP |
+| [10. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Binary Search |
+
+
 
 
 
