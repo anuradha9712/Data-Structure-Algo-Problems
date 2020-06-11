@@ -16,12 +16,14 @@ Sample Output
 1
 Explanation
 Factorial of 5 is 120 which has one trailing 0.
-*/
+
 
 APPROACH:- finding factorial and then calculating the trailing zeroes would result into TLE.
 So to solve this problem we first find out factors of 10( i.e. 5 & 2) present in a factorial. 
 Also (number of 2) > (number of 5) so we simply find out the multiple of 5 present in a factorial.
 To find out the multiple of 5 in a factorial we use a formula:- floor(n/5) + floor(n/5^2) + floor(n/5^3)+ ... +0 (until 0)
+
+*/
 
 #include<iostream>
 using namespace std;
