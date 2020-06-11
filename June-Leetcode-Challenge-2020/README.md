@@ -17,6 +17,7 @@ A collection of solution for the June Leetcode Challenge 2020.
 | [8. Power of Two](https://leetcode.com/problems/power-of-two/) | log function |
 | [9. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | DP |
 | [10. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Binary Search |
+| [11. Sort Colors](https://leetcode.com/problems/sort-colors/) | Dutch National Flag Algo
 
 
 
