@@ -19,7 +19,10 @@ A collection of solution for the June Leetcode Challenge 2020.
 | [10. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Binary Search |
 | [11. Sort Colors](https://leetcode.com/problems/sort-colors/) | Dutch National Flag Algo |
 | [12. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Maps/ Vector |
-| [13. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Vector
+| [13. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Vector |
+| [14. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Bellman Ford |
+
+
 
 
 
