@@ -24,6 +24,7 @@ A collection of solution for the June Leetcode Challenge 2020.
 | [15. Search in BST](https://leetcode.com/problems/search-in-a-binary-search-tree/) | BST |
 | [16. Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | Regular Expression|
 | [17. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | DFS |
+| [18. H-Index II](https://leetcode.com/problems/h-index-ii/) | Binary Search|
 
 
 
