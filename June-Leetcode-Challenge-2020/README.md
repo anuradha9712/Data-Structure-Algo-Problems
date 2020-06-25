@@ -29,6 +29,9 @@ A collection of solution for the June Leetcode Challenge 2020.
 | [22. Single Number II](https://leetcode.com/problems/single-number-ii/) | Bitwise Operation |
 | [23. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Trees |
 | [24. Unique BST](https://leetcode.com/problems/unique-binary-search-trees/) | Catalan Number |
+| [25. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Sorting |
+
+
 
 
 
