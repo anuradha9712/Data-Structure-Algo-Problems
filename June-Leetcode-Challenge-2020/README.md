@@ -27,7 +27,8 @@ A collection of solution for the June Leetcode Challenge 2020.
 | [18. H-Index II](https://leetcode.com/problems/h-index-ii/) | Binary Search|
 | [21. Dungeon Game](https://leetcode.com/problems/dungeon-game/) | DP |
 | [22. Single Number II](https://leetcode.com/problems/single-number-ii/) | Bitwise Operation |
-| [23. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Trees
+| [23. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Trees |
+| [24. Unique BST](https://leetcode.com/problems/unique-binary-search-trees/) | Catalan Number |
 
 
 
