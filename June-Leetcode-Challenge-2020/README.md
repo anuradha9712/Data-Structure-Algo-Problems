@@ -32,6 +32,9 @@ A collection of solution for the June Leetcode Challenge 2020.
 | [25. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Sorting |
 | [26. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Trees |
 | [27. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Lagrange’s four-square theorem  |
+| [28. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Maps/Multiset
+
+
 
 
 
