@@ -33,6 +33,8 @@ A collection of solution for the June Leetcode Challenge 2020.
 | [26. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Trees |
 | [27. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Lagrange’s four-square theorem  |
 | [28. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Maps/Multiset
+| [29. Unique Paths](https://leetcode.com/problems/unique-paths/) | DP 
+| [30. Word Search II](https://leetcode.com/problems/word-search-ii/) | DFS
 
 
 
